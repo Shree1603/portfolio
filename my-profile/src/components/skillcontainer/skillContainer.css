@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Crimson+Text&display=swap');
+
+.skillContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 200px 0 ;
+}
+
+.skillContainer__text{
+    color: white;
+    flex: 0.5;
+    text-align: left;
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+.skillContainer__text >h2{
+    font-size: 30px;
+}
+
+.skillContainer__image{
+    flex: 0.5;
+    text-align: center;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.skillContainer__image > img{
+    width: 600px;
+    border-radius: 3px;
+    object-fit: contain;
+}
+.skillContainer__skillset >h5{
+    font-family: 'Crimson text',serif;
+    font-weight: 300;
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.skillContainer__slider > .MuiLinearProgress-colorPrimary{
+    background-color: rgb(88,88,88);
+}
+.skillContainer__slider1 > div > .MuiLinearProgress-barColorPrimary{
+    background-color: darkblue;
+}
+.skillContainer__slider2 > div > .MuiLinearProgress-barColorPrimary{
+    background-color: darkblue;
+}
+.skillContainer__slider3 > div > .MuiLinearProgress-barColorPrimary{
+    background-color: green;
+}
+.skillContainer__slider4 > div > .MuiLinearProgress-barColorPrimary{
+    background-color: red;
+}
