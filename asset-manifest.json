@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pp/static/css/main.c65fd8bb.css",
+    "main.js": "/pp/static/js/main.a3bac29e.js",
+    "static/js/787.9077b1c8.chunk.js": "/pp/static/js/787.9077b1c8.chunk.js",
+    "static/media/4K-Winter-Wallpaper.jpg": "/pp/static/media/4K-Winter-Wallpaper.5eb189353d3544900b15.jpg",
+    "static/media/res.pdf": "/pp/static/media/res.299a601b098cd6a2e4e0.pdf",
+    "static/media/we.webp": "/pp/static/media/we.ba4a89ef0591aedc3ab0.webp",
+    "static/media/skk2.jpg": "/pp/static/media/skk2.4486465f9d513d6196a6.jpg",
+    "index.html": "/pp/index.html",
+    "main.c65fd8bb.css.map": "/pp/static/css/main.c65fd8bb.css.map",
+    "main.a3bac29e.js.map": "/pp/static/js/main.a3bac29e.js.map",
+    "787.9077b1c8.chunk.js.map": "/pp/static/js/787.9077b1c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c65fd8bb.css",
+    "static/js/main.a3bac29e.js"
+  ]
+}
